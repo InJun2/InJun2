@@ -1,6 +1,6 @@
 <br>
 
-<img width="{100px}" height="{100px}" src="{https://user-images.githubusercontent.com/50690859/181441396-c1ded5f5-a720-425b-b0bb-1fb58d9fb5f7.png}"/>
+<img width="100px" height="100px" src="{https://user-images.githubusercontent.com/50690859/181441396-c1ded5f5-a720-425b-b0bb-1fb58d9fb5f7.png}"/>
 ## Welcome to InJun's GitHub 💻  
 
 
