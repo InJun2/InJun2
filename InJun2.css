@@ -1,0 +1,48 @@
+.header{
+    font-family: 'BMHP';
+    font-size: 50px;
+    padding-top:10px;
+    margin-left: 20px;
+}
+
+.logo{
+    position: line;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.logo:hover{
+    transition: 0.2s;
+    opacity: 0.2;
+}
+
+
+/* font */
+
+@font-face {
+    font-family: "BMJ";
+    src: url("./public/font/BMJUA_ttf.ttf");
+}
+
+@font-face {
+    font-family: "BMD";
+    src: url("./public/font/BMDOHYEON_ttf.ttf");
+}
+
+@font-face {
+    font-family: "BMHA";
+    src: url("./public/font/BMHANNAAir_ttf.ttf");
+}
+
+@font-face {
+    font-family: "BMHP";
+    src: url("./public/font/BMHANNAPro.ttf");
+}
+
+@font-face {
+    font-family: "BMY";
+    src: url("./public/font/BMYEONSUNG_ttf.ttf");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
