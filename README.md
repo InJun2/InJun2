@@ -1,4 +1,4 @@
-<link href="./InJun2.css" rel="stylesheet" />
+<link href="../../blob/main/InJun2.css" rel="stylesheet" />
 
 # Welcome to InJun's GitHub <img width="50px" height="50px" src="https://user-images.githubusercontent.com/50690859/181441396-c1ded5f5-a720-425b-b0bb-1fb58d9fb5f7.png"/> 
 
