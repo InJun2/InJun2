@@ -9,12 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InJun2&layout=compact&exclude_repo=0up)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br><br>
-
----
----
-
-<br><br><br>
+<br><br>
 
 ### TIL
 - [Today I Learned](./TIL)
