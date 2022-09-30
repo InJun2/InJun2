@@ -12,7 +12,7 @@
 <br><br>
 
 ### TIL
-- [Today I Learned](./TIL)
+- [Today I Learned](https://github.com/InJun2/TIL)
 
 <br><br><br>
 
