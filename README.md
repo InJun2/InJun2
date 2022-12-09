@@ -12,7 +12,8 @@
 <br><br>
 
 ### TIL
-- [Today I Learned](https://github.com/InJun2/TIL)
+- [Study CS](https://github.com/InJun2/TIL)
+- [Today I Learned](https://github.com/InJun2/TIL/todo-list)
 
 <br><br><br>
 
