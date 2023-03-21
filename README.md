@@ -16,7 +16,7 @@
 
 <br><br><br>
 
-<!-- <div class="mystack"> My Stack </div>
+<div class="mystack"> My Stack </div>
 <br>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/> 
 
@@ -52,4 +52,4 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/></a> -->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/></a>
