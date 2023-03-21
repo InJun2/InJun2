@@ -28,9 +28,11 @@
 - SpringBoot
 - MySql
 - Oracle
+- Redis
 - JPA
+- MyBatis
 
 <br><br><br>
 
 ### Organization
-- [SELab](https://github.com/selab-hs)
+- [SELAB](https://github.com/selab-hs)
