@@ -14,14 +14,14 @@
 ### TIL
 - [Study CS](https://github.com/InJun2/TIL)
 
-<br><br><br>
+<br><br>
 
 ### Project
 
 - [Auction](https://github.com/selab-hs/auction_project)
 - [Buri-Point](https://github.com/selab-hs/buri_point)
 
-<br><br><br>
+<br><br>
 
 ### Stack
 - Java
@@ -32,7 +32,7 @@
 - JPA
 - MyBatis
 
-<br><br><br>
+<br><br>
 
 ### Organization
 - [SELAB](https://github.com/selab-hs)
