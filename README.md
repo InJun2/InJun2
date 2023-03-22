@@ -14,7 +14,7 @@
 ### TIL
 - [Study CS](https://github.com/InJun2/TIL)
 - [정보처리기사 정리](https://github.com/InJun2/TIL/blob/main/ETC/정보처리기사.md)
-- [면접 대비 CS 정리](https://github.com/InJun2/TIL/blob/main/ETC/.md)
+- [면접 대비 CS 정리](https://github.com/InJun2/TIL/blob/main/ETC/면접대비정리.md)
 
 <br><br>
 
