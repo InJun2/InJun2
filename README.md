@@ -21,7 +21,6 @@
 ### Project
 
 - [Auction](https://github.com/selab-hs/auction_project)
-- [Buri-Point](https://github.com/selab-hs/buri_point)
 
 <br><br>
 
