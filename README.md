@@ -13,7 +13,6 @@
 
 ### TIL
 - [Study CS](https://github.com/InJun2/TIL)
-- [정보처리기사 정리](https://github.com/InJun2/TIL/blob/main/ETC/정보처리기사.md)
 - [면접 대비 CS 정리](https://github.com/InJun2/TIL/blob/main/ETC/면접대비정리.md)
 
 <br><br>
@@ -40,6 +39,22 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB">
     </p>
 </div>
+
+<br><br>
+
+### University
+- University : 한신 University
+- Degree : 컴퓨터 공학부
+- Laboratory : SE(Software Engineering) LAB
+- Year : 2016.03 ~ 2022.09
+
+<br><br>
+
+### Education
+- From : KH정보교육원
+- Education : (디지털컨버전스) 공공데이터 융합 웹기반 SW 개발자 양성과정 (3)
+- Year : 2021.08 ~ 2022.03
+- Education Stack : JAVA Servlet, HTML, CSS, JavaScript, JSP, JDBC, Spring, Mybatis, Ajax, Oracle
 
 <br><br>
 
