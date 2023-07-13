@@ -20,6 +20,7 @@
 
 - [Auction](https://github.com/selab-hs/auction_project)
 - [Glass Bottle](https://github.com/selab-hs/glass-bottle)
+    - [프로젝트 진행사항](https://github.com/InJun2/TIL/blob/main/Project/glass-bottle/Issue.md)
 
 <br><br>
 
