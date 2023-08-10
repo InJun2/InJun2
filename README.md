@@ -5,9 +5,7 @@
 <br>
 <!-- 참조 사이트 : https://github.com/anuraghazra/github-readme-stats -->
 
-![InJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=InJun2&show_icons=true&theme=radical) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InJun2&layout=compact&exclude_repo=0up)](https://github.com/anuraghazra/github-readme-stats)
+![InJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=InJun2&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InJun2&layout=compact&exclude_repo=0up)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
