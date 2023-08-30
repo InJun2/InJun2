@@ -20,7 +20,7 @@
 - [Glass Bottle](https://github.com/selab-hs/glass-bottle)
     - [프로젝트 진행사항](https://github.com/InJun2/TIL/blob/main/Project/glass-bottle/Issue.md)
 - [SE Community Service](https://github.com/selab-hs/SE-Community-Service)
-    - 현재 진행중 (2023.07.20 ~ )
+    - 현재 진행중
 
 <br><br>
 
