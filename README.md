@@ -18,9 +18,7 @@
 
 - [Auction](https://github.com/selab-hs/auction_project)
 - [Glass Bottle](https://github.com/selab-hs/glass-bottle)
-    - [프로젝트 진행사항](https://github.com/InJun2/TIL/blob/main/Project/glass-bottle/Issue.md)
 - [SE Community Service](https://github.com/selab-hs/SE-Community-Service)
-    - 현재 진행중
 
 <br><br>
 
@@ -61,3 +59,8 @@
 
 ### Organization
 - [SELAB](https://github.com/selab-hs)
+
+<br><br>
+
+### Notion
+- [Notion](https://faithful-medicine-736.notion.site/ce0d03192e2c4e91bb076852a4058430?pvs=4)
