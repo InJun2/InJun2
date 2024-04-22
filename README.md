@@ -11,7 +11,6 @@
 
 ### TIL
 - [공부 내용 정리](https://github.com/InJun2/TIL)
-- [책 스터디](https://github.com/InJun2/TIL/tree/main/BookStudy)
 
 <br><br>
 
@@ -43,17 +42,12 @@
 <br><br>
 
 ### University
-- University : 한신 University
-- Degree : 컴퓨터 공학부
-- Laboratory : SE(Software Engineering) LAB
-- Year : 2016.03 ~ 2022.09
+- University : 한신대학교, 컴퓨터 공학부 ( 2016.03 ~ 2022.09 )
 
 <br><br>
 
 ### Education
-- From : KH정보교육원
-- Education : (디지털컨버전스) 공공데이터 융합 웹기반 SW 개발자 양성과정 (3)
-- Year : 2021.08 ~ 2022.03
+- From : KH정보교육원 국비 교육 ( 2021.08 ~ 2022.03 )
 - Education Stack : JAVA Servlet, HTML, CSS, JavaScript, JSP, JDBC, Spring, Mybatis, Ajax, Oracle
 
 <br><br>
