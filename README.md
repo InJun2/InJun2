@@ -10,7 +10,8 @@
 <br><br>
 
 ### TIL
-- [TIL Study](https://github.com/InJun2/TIL)
+- [공부 내용 정리](https://github.com/InJun2/TIL)
+- [책 스터디](https://github.com/InJun2/TIL/tree/main/BookStudy)
 
 <br><br>
 
@@ -59,6 +60,7 @@
 
 ### Organization
 - [SELAB](https://github.com/selab-hs)
+- [자바카페](https://www.notion.so/6b9f59a73665403fb49e767a399314e5)
 
 <br><br>
 
