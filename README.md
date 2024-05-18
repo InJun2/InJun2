@@ -39,18 +39,7 @@
     </p>
 </div>
 
-<br><br>
-
-### University
-- University : 한신대학교, 컴퓨터 공학부 ( 2016.03 ~ 2022.09 )
-
-<br><br>
-
-### Education
-- From : KH정보교육원 국비 교육 ( 2021.08 ~ 2022.03 )
-- Education Stack : JAVA Servlet, HTML, CSS, JavaScript, JSP, JDBC, Spring, Mybatis, Ajax, Oracle
-
-<br><br>
+<br>
 
 ### Organization
 - [SELAB](https://github.com/selab-hs)
