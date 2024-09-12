@@ -20,12 +20,15 @@
 
 ### 📁 Project
 
-- ⚖️ [Auction](https://github.com/selab-hs/auction_project)
-- 💌 [Glass Bottle](https://github.com/selab-hs/glass-bottle)
-- 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service)
-- ✂️ [URL Shortener](https://github.com/selab-hs/url-shortener)
+| Project Name        | Description       | Duration        |
+|---------------------|-------------------|-----------------|
+| ⚖️ [Auction](https://github.com/selab-hs/auction_project)             | 경매 프로젝트     | 2022-10 ~ 2023-01 |
+| 💌 [Glass Bottle](https://github.com/selab-hs/glass-bottle)           | 유리병 편지 프로젝트 | 2023-05 ~ 2023-07 |
+| 💌 [DeokjiDeokji](https://github.com/unithon-10th-10team)           | 연예인 덕질 순례 서비스 프로젝트 | 2023-09 ~ 2023-09 |
+| 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service) | SE 커뮤니티 서비스 프로젝트 | 2023-07 ~ 2023-10 |
+| ✂️ [URL Shortener](https://github.com/selab-hs/url-shortener)          | URL 단축 서비스  | 2024-06 ~ 2024-07 |
 
-<br><br>
+<br>
 
 ### 💻 Tech Stack 
 
@@ -39,7 +42,7 @@
 #### 🧩 Frameworks & Libraries
 <div align="center">
     <p>
-      <img src="https://skillicons.dev/icons?i=jquery,bootstrap,spring,hibernate" alt="Frameworks & Libraries Icons"/>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,jquery,bootstrap" alt="Frameworks & Libraries Icons"/>
     </p>
 </div>
 
@@ -60,10 +63,18 @@
 
 <br>
 
-### 🧑‍🤝‍🧑 Organization
-- [SELAB](https://github.com/selab-hs)
-- [자바카페](https://www.notion.so/6b9f59a73665403fb49e767a399314e5)
-- [SSAFY 12TH](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+### 🧑‍🤝‍🧑 Activities
+
+| Activity Name                                             | Organization               | Duration                |
+|-----------------------------------------------------------|----------------------------|-------------------------|
+| [SSAFY 12TH](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | Samsung Software Academy For Youth     | 2024-07 ~ Present        |
+| [자바카페](https://www.notion.so/6b9f59a73665403fb49e767a399314e5) | Java Community             | 2023-09 ~ Present        |
+| [UNITION 10TH](https://www.unit.center/56853d1d-444f-4112-819b-db76786a5b26)                             | UNIT                     | 2023-09-22 ~ 2023-09-24  |
+| [SELAB](https://github.com/selab-hs)                      | Software Engineering Lab    | 2016-04 ~ 2022-08        |
+| [KH 정보교육원 국비교육](https://khedu.co.kr/main/main.kh)                               | KH 정보교육원                | 2021-08 ~ 2022-03        |
+
+
+
 
 <br><br>
 
