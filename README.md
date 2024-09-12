@@ -13,8 +13,16 @@
 
 <br><br>
 
-### 📝 TIL
-- 📚 [Today I Learned](https://github.com/InJun2/TIL)
+<div align="center">
+
+### 📝 TIL (Today I Learned)
+
+<div align="center">
+  <a href="https://github.com/InJun2/TIL" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Today%20I%20Learned&fontSize=40&height=100&section=header&animation=fadeIn" alt="TIL Banner"/>
+  </a>
+  <p>🔗 <strong>매일매일 배운 내용을 기록한 공간입니다!</strong> 
+</div>
 
 <br><br>
 
@@ -24,7 +32,7 @@
 |---------------------|-------------------|-----------------|
 | ⚖️ [Auction](https://github.com/selab-hs/auction_project)             | 경매 프로젝트     | 2022-10 ~ 2023-01 |
 | 💌 [Glass Bottle](https://github.com/selab-hs/glass-bottle)           | 유리병 편지 프로젝트 | 2023-05 ~ 2023-07 |
-| 💌 [DeokjiDeokji](https://github.com/unithon-10th-10team)           | 연예인 덕질 순례 서비스 프로젝트 | 2023-09 ~ 2023-09 |
+| 🗺️ [DeokjiDeokji](https://github.com/unithon-10th-10team)           | 연예인 덕질 순례 서비스 프로젝트 | 2023-09 ~ 2023-09 |
 | 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service) | SE 커뮤니티 서비스 프로젝트 | 2023-07 ~ 2023-10 |
 | ✂️ [URL Shortener](https://github.com/selab-hs/url-shortener)          | URL 단축 서비스  | 2024-06 ~ 2024-07 |
 
@@ -33,33 +41,24 @@
 ### 💻 Tech Stack 
 
 #### 🌐 Languages
-<div align="center">
-    <p>
-      <img src="https://skillicons.dev/icons?i=java,javascript,html" alt="Languages Icons"/>
-    </p>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html" alt="Languages Icons"/>
+</p>
 
 #### 🧩 Frameworks & Libraries
-<div align="center">
-    <p>
-      <img src="https://skillicons.dev/icons?i=spring,hibernate,jquery,bootstrap" alt="Frameworks & Libraries Icons"/>
-    </p>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,jquery,bootstrap" alt="Frameworks & Libraries Icons"/>
+</p>
 
 #### 🗄️ Databases
-<div align="center">
-    <p>
-      <img src="https://skillicons.dev/icons?i=mysql,redis" alt="Databases Icons"/>
-    </p>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis" alt="Databases Icons"/>
+</p>
 
 #### 🔧 Tools
-<div align="center">
-    <p>
-      <img src="https://skillicons.dev/icons?i=aws,github,discord" alt="Tools Icons"/>
-    </p>
-</div>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,github,discord" alt="Tools Icons"/>
+</p>
 
 <br>
 
@@ -73,13 +72,19 @@
 | [SELAB](https://github.com/selab-hs)                      | Software Engineering Lab    | 2016-04 ~ 2022-08        |
 | [KH 정보교육원 국비교육](https://khedu.co.kr/main/main.kh)                               | KH 정보교육원                | 2021-08 ~ 2022-03        |
 
-
-
-
 <br><br>
 
-### 🚀 Notion
-- [Notion](https://faithful-medicine-736.notion.site/ce0d03192e2c4e91bb076852a4058430?pvs=4)
+### 🚀 Notion Portfolio
 
+<div align="center">
+  <a href="https://faithful-medicine-736.notion.site/ce0d03192e2c4e91bb076852a4058430?pvs=4" target="_blank">
+    <img src="https://img.icons8.com/clouds/200/000000/notion.png" alt="Notion Icon" width="150"/>
+  </a>
+  <br>
+</div>
+
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+</div>
