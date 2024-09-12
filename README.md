@@ -1,19 +1,8 @@
 <link href="./InJun2.css" rel="stylesheet" />
 
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=InJun2's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20InJun2's%20Profile!&descAlignY=51&descAlign=62)
-
-<div align="center">
-  <h3>💻 Contact Me</h3>
-  <p>
-    <a href="https://github.com/InJun2" target="_blank"><img src="https://img.shields.io/badge/GitHub-InJun2-181717?style=flat&logo=GitHub" alt="GitHub Badge"/></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/Email-os2864@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Email Badge"/></a>
-    <a href="https://faithful-medicine-736.notion.site/ce0d03192e2c4e91bb076852a4058430?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-InJun2's%20Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion Badge"/></a>
-  </p>
-</div>
-
-<br><br>
-
-<div align="center">
 
 ### 📝 TIL (Today I Learned)
 
@@ -74,7 +63,7 @@
 
 <br><br>
 
-### 🚀 Notion Portfolio
+### 🚀 Notion Portfolio Link
 
 <div align="center">
   <a href="https://faithful-medicine-736.notion.site/ce0d03192e2c4e91bb076852a4058430?pvs=4" target="_blank">
