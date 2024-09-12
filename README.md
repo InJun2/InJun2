@@ -5,25 +5,25 @@
 <br>
 <!-- 참조 사이트 : https://github.com/anuraghazra/github-readme-stats -->
 
-![InJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=InJun2&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InJun2&layout=compact&exclude_repo=0up)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InJun2&layout=compact&exclude_repo=0up)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
-### TIL
-- [공부 내용 정리](https://github.com/InJun2/TIL)
+### 📝 TIL
+- 📚 [Today I Learned](https://github.com/InJun2/TIL)
 
 <br><br>
 
-### Project
+### 📁 Project
 
-- [Auction](https://github.com/selab-hs/auction_project)
-- [Glass Bottle](https://github.com/selab-hs/glass-bottle)
-- [SE Community Service](https://github.com/selab-hs/SE-Community-Service)
-- [URL Shortener](https://github.com/selab-hs/url-shortener)
+- ⚖️ [Auction](https://github.com/selab-hs/auction_project)
+- 💌 [Glass Bottle](https://github.com/selab-hs/glass-bottle)
+- 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service)
+- ✂️ [URL Shortener](https://github.com/selab-hs/url-shortener)
 
 <br><br>
 
-### Tech Stack 
+### 🛠️ Tech Stack 
 
 <div align>
     <p>
@@ -42,11 +42,12 @@
 
 <br>
 
-### Organization
+### 🧑‍🤝‍🧑 Organization
 - [SELAB](https://github.com/selab-hs)
 - [자바카페](https://www.notion.so/6b9f59a73665403fb49e767a399314e5)
+- SSAFY 12TH
 
 <br><br>
 
-### Notion
+### 🚀 Notion
 - [Notion](https://faithful-medicine-736.notion.site/ce0d03192e2c4e91bb076852a4058430?pvs=4)
