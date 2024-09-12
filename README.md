@@ -68,7 +68,7 @@
 |-----------------------------------------------------------|----------------------------|-------------------------|
 | [SSAFY 12TH](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | Samsung Software Academy For Youth     | 2024-07 ~ Present        |
 | [자바카페](https://www.notion.so/6b9f59a73665403fb49e767a399314e5) | Java Community             | 2023-09 ~ Present        |
-| [UNITION 10TH](https://www.unit.center/56853d1d-444f-4112-819b-db76786a5b26)                             | UNIT                     | 2023-09-22 ~ 2023-09-24  |
+| [UNITION 10TH](https://www.unit.center/56853d1d-444f-4112-819b-db76786a5b26)                             | UNIT                     | 2023-09 ~ 2023-09  |
 | [SELAB](https://github.com/selab-hs)                      | Software Engineering Lab    | 2016-04 ~ 2022-08        |
 | [KH 정보교육원 국비교육](https://khedu.co.kr/main/main.kh)                               | KH 정보교육원                | 2021-08 ~ 2022-03        |
 
