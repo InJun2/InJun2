@@ -19,11 +19,11 @@
 
 | Project Name        | Description       | Duration        |
 |---------------------|-------------------|-----------------|
-| ⚖️ [Auction](https://github.com/selab-hs/auction_project)             | 경매 프로젝트     | 2022-10 ~ 2023-01 |
-| 💌 [Glass Bottle](https://github.com/selab-hs/glass-bottle)           | 유리병 편지 프로젝트 | 2023-05 ~ 2023-07 |
-| 🗺️ [DeokjiDeokji](https://github.com/unithon-10th-10team)           | 연예인 덕질 순례 서비스 프로젝트 | 2023-09 ~ 2023-09 |
-| 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service) | SE 커뮤니티 서비스 프로젝트 | 2023-07 ~ 2023-10 |
 | ✂️ [URL Shortener](https://github.com/selab-hs/url-shortener)          | URL 단축 서비스  | 2024-06 ~ 2024-07 |
+| 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service) | SE 커뮤니티 서비스 프로젝트 | 2023-07 ~ 2023-10 |
+| 🗺️ [DeokjiDeokji](https://github.com/unithon-10th-10team)           | 연예인 덕질 순례 서비스 프로젝트 | 2023-09 ~ 2023-09 |
+| 💌 [Glass Bottle](https://github.com/selab-hs/glass-bottle)           | 유리병 편지 프로젝트 | 2023-05 ~ 2023-07 |
+| ⚖️ [Auction](https://github.com/selab-hs/auction_project)             | 경매 프로젝트     | 2022-10 ~ 2023-01 |
 
 <br>
 
