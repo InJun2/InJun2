@@ -19,6 +19,7 @@
 
 | Project Name        | Description       | Duration        |
 |---------------------|-------------------|-----------------|
+| 👨‍💻 [Chunsun](https://github.com/InJun2/Chunsun)| 과외 매칭 서비스  | 2025-01 ~ 2025-02 |
 | ✂️ [URL Shortener](https://github.com/selab-hs/url-shortener)          | URL 단축 서비스  | 2024-06 ~ 2024-07 |
 | 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service) | SE 커뮤니티 서비스 프로젝트 | 2023-07 ~ 2023-10 |
 | 🗺️ [DeokjiDeokji](https://github.com/unithon-10th-10team)           | 연예인 덕질 순례 서비스 프로젝트 | 2023-09 ~ 2023-09 |
@@ -66,7 +67,7 @@
 ### 🚀 Notion Portfolio Link
 
 <div align="center">
-  <a href="https://faithful-medicine-736.notion.site/ce0d03192e2c4e91bb076852a4058430?pvs=4" target="_blank">
+  <a href="https://faithful-medicine-736.notion.site/87f93a5c352145918b255bfd4e777ced?pvs=4" target="_blank">
     <img src="https://img.icons8.com/clouds/200/000000/notion.png" alt="Notion Icon" width="150"/>
   </a>
   <br>
