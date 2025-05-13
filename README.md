@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=InJun2's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20InJun2's%20Profile!&descAlignY=51&descAlign=62)
 
-### 📝 TIL (Today I Learned)
+### 📝 [TIL](https://github.com/InJun2/TIL) (Today I Learned)
 
 <div align="center">
   <a href="https://github.com/InJun2/TIL" target="_blank">
@@ -19,12 +19,13 @@
 
 | Project Name        | Description       | Duration        |
 |---------------------|-------------------|-----------------|
+| 👨‍💻 [BangJwo](https://github.com/InJun2/Bangjwo)| 부동산 월세 계약 서비스  | 2025-03 ~ 2025-04 |
 | 👨‍💻 [Chunsun](https://github.com/InJun2/Chunsun)| 과외 매칭 서비스  | 2025-01 ~ 2025-02 |
 | ✂️ [URL Shortener](https://github.com/selab-hs/url-shortener)          | URL 단축 서비스  | 2024-06 ~ 2024-07 |
-| 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service) | SE 커뮤니티 서비스 프로젝트 | 2023-07 ~ 2023-10 |
-| 🗺️ [DeokjiDeokji](https://github.com/unithon-10th-10team)           | 연예인 덕질 순례 서비스 프로젝트 | 2023-09 ~ 2023-09 |
-| 💌 [Glass Bottle](https://github.com/selab-hs/glass-bottle)           | 유리병 편지 프로젝트 | 2023-05 ~ 2023-07 |
-| ⚖️ [Auction](https://github.com/selab-hs/auction_project)             | 경매 프로젝트     | 2022-10 ~ 2023-01 |
+| 🌍 [SE Community Service](https://github.com/selab-hs/SE-Community-Service) | SE 커뮤니티 서비스 | 2023-07 ~ 2023-10 |
+| 🗺️ [DeokjiDeokji](https://github.com/unithon-10th-10team)           | 연예인 덕질 순례 서비스 | 2023-09 ~ 2023-09 |
+| 💌 [Glass Bottle](https://github.com/selab-hs/glass-bottle)           | 유리병 편지 | 2023-05 ~ 2023-07 |
+| ⚖️ [Auction](https://github.com/selab-hs/auction_project)             | 경매 서비스     | 2022-10 ~ 2023-01 |
 
 <br>
 
