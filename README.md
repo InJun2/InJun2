@@ -68,7 +68,7 @@
 ### 🚀 Notion Portfolio Link
 
 <div align="center">
-  <a href="https://faithful-medicine-736.notion.site/1f41e69284f780a18abbfbe389aa0261?pvs=4" target="_blank">
+  <a href="https://faithful-medicine-736.notion.site/2001e69284f7809c897bfb0d922f0399" target="_blank">
     <img src="https://img.icons8.com/clouds/200/000000/notion.png" alt="Notion Icon" width="150"/>
   </a>
   <br>
